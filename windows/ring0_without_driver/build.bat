@@ -1,0 +1,1 @@
+cl /EHsc advapi32.lib  ring0.cpp
